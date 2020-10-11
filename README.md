@@ -20,7 +20,7 @@
 
 HelloWorld.javaの実行結果
 
-![image](https://github.com/Frannie0103/program01/blob/main/p1.jpeg)
+![image](https://github.com/Frannie0103/program01/blob/main/p1.png)
 
 考察
 
