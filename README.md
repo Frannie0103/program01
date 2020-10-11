@@ -41,6 +41,8 @@ C言語のprintfとは異なり，改行コードを末尾に書かなくても�
 
 (x+y)の括弧をなくした場合：
 
+![image](https://github.com/Frannie0103/program01/blob/main/p3.png)
+
 xに初期値を指定しない場合：
 
 考察
