@@ -20,6 +20,8 @@
 
 HelloWorld.javaの実行結果
 
+![image](https://github.com/Frannie0103/program01/blob/main/p1.jpeg)
+
 考察
 
 C言語のprintfとは異なり，改行コードを末尾に書かなくても改行されている
